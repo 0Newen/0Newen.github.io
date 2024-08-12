@@ -26,7 +26,7 @@ This repository is still under development. Here’s what you can expect in the 
 
 We’re aiming to go live with our first set of repositories soon! Until then, stay connected:
 
-- **LinkedIn**: Connect with us on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/esteban-florido-vega-4ab05814a/)) to see what we’re up to.
+- **LinkedIn**: Connect with us on [LinkedIn](https://www.linkedin.com/in/esteban-florido-vega-4ab05814a/) to see what we’re up to.
 
 ---
 
